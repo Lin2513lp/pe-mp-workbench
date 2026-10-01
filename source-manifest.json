@@ -1,0 +1,40 @@
+{
+  "source_directory": "tpu/tpu/pe_v1",
+  "files": [
+    {
+      "path": "fix2fp.v",
+      "bytes": 7193,
+      "sha256": "fbe9ed0e6a45c1aafc4165df6efed185418942b58573248bfa6d1f0537e7ac72"
+    },
+    {
+      "path": "fp2fix.v",
+      "bytes": 8170,
+      "sha256": "80573302d4a24a12ff757d4619a141bd359474285fd81ac326b17bf30045e0ee"
+    },
+    {
+      "path": "fp32_adder.v",
+      "bytes": 8062,
+      "sha256": "be3d1061521a02963f44f965b6034e90f9fda616e26379ab0ef536468d2eed19"
+    },
+    {
+      "path": "fp32_multi.v",
+      "bytes": 11114,
+      "sha256": "79a83d9179c30b54a73195bb1195df5477449b65d234b90e46aaf45843bd9da5"
+    },
+    {
+      "path": "Makefile",
+      "bytes": 5433,
+      "sha256": "ebc141a69eea234a576017786a27cddad6c835623a7917a3ca007059baef7240"
+    },
+    {
+      "path": "PE_MP_v1.v",
+      "bytes": 10610,
+      "sha256": "215c2b8601547f0cc03be317cbbb98e2eab048d0f8985bd37702c3484abfb447"
+    },
+    {
+      "path": "tb_pe_mp_v1_smoke.v",
+      "bytes": 10885,
+      "sha256": "327247446af3979ead40fe0430a0215915c1be234646edf8e0beaeb6cae31a05"
+    }
+  ]
+}
